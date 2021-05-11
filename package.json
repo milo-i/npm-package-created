@@ -1,0 +1,16 @@
+{
+  "name": "@milo-i/rebus",
+  "version": "1.0.0",
+  "description": "replaces strings with emoji\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D letters in string with emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "rebus",
+    "replace"
+  ],
+  "author": "Igor Milosevic",
+  "license": "MIT"
+}
